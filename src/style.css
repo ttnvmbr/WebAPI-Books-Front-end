@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+a{
+    color:orange;
+}
+
+a:hover{
+    color: orange;
+}
+
+.btn-orange:hover{
+    color: orange;
+    background-color:black;
+    border-color: orange;
+}
+
+.btn-orange{
+    background-color: orange;
+    color:black;
+    border-color:black;
+}
+.orangeText{
+    color: orange;
+}
